@@ -1,2 +1,2 @@
 # bunq-api-netflix-forever-free-automation
-W.I.P (automated Free Netflix Accounts by using the BUNQ api and virtual Mastercards)
+PROJECT DEAD, unless Netflix made it harder to automatize the shit out of it. They added SMS verifucktion
